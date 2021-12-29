@@ -9,13 +9,6 @@
 # Latest reduced bugs version (Recommended)
 1. 0.0.5
 
-## PayPal Sandbox credentials
-Now the application is running in sandbox(PayPal), you will need to use these
-sandbox credentials to mimic making payment.
-
-Login Email: sb-vfpvt6618287@personal.example.com\
-Login Password: J/5Cv.j4
-
 ### For versions before 0.0.5
 Try to run the application's exe, if you can't run the application's exe, then try to run the setup in
 this folder.
